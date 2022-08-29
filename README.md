@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LilyCrown999&theme=radical" alt="">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilyCrown999&layout=compact" alt="">
 
-#
+##
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
