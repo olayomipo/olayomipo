@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my coding 😀😁.
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with the integration of Django with Heroku.
-- 😄 Pronouns: Despite my name, my pronoun is he.
 - ⚡ Fun fact: GitHub says JavaScript is the Most Popular language in the world.
 
 #
