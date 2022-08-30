@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name LilyCrown999
           git config user.email adexadexdede@gmai.com
+          git pull
           git add -A .
           git commit -m "generated"
           git push
