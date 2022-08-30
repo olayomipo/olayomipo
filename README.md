@@ -1,4 +1,10 @@
-### Hi there 👋, I'm Lily 🌸.
+
+<h1>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Lily <img src="https://media.giphy.com/media/KAusdKANmC3EE3NpZK/giphy.gif" width="30px"/>.
+</h1>
+
 
 <!--
 **LilyCrown999/LilyCrown999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +25,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open-source projects.
 - ⚡ Fun fact: GitHub says JavaScript is the Most Popular language in the world.
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesoye-ademola-3a652) 
+
 
 #
 
