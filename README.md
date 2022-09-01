@@ -2,7 +2,7 @@
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  , I'm Lily <img src="https://media.giphy.com/media/KAusdKANmC3EE3NpZK/giphy.gif" width="30px"/>.
+  , I'm Lily .
 </h1>
 
 
