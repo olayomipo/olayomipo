@@ -6,7 +6,7 @@
 </h1>
 
 
-<!--
+<!-- lol
 **LilyCrown999/LilyCrown999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -24,8 +24,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on improving my coding 😀😁.
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open-source projects.
-- ⚡ Fun fact: GitHub says JavaScript is the Most Popular language in the world.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adesoye-ademola-3a652) 
+- ⚡ Fun fact: GitHub says JavaScript is the Most Popular language in the world. 
 
 
 #
