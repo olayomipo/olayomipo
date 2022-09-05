@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 #
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LilyCrown999" alt="" href="#!">
+<img align="left" width="47%" height="inherit" src="https://github-readme-stats.vercel.app/api?username=LilyCrown999&hide=contribs,prs" alt="" href="#!">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilyCrown999&hide=css,html&layout=compact&langs_count=10" alt="" href="#!">
 
 ##
