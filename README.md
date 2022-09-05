@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 #
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=LilyCrown999&theme=radical" alt="" href="#!">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilyCrown999&hide=css,html&layout=compact&langs_count=7" alt="" href="#!">
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilyCrown999&hide=css,html&layout=compact&langs_count=10" alt="" href="#!">
 
 ##
 
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![](./profile-3d-contrib/profile-season.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
