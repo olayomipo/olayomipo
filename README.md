@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" width="47%" height="inherit" src="https://github-readme-stats.vercel.app/api?username=olayomipo&hide=contribs,prs&count_private=true" alt="" href="#!"> -->
 
-<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayomipo&hide=css,html&layout=compact&langs_count=10&count_private=true" alt="" href="#!">
+<img align="left" width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayomipo&hide=css,html&theme=dark&langs_count=10&count_private=true" alt="" href="#!">
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
