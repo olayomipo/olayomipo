@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 
 <!-- <img align="left" width="47%" height="inherit" src="https://github-readme-stats.vercel.app/api?username=olayomipo&hide=contribs,prs&count_private=true" alt="" href="#!"> -->
 
-<img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayomipo&hide=css,html&theme=dark&langs_count=5&count_private=true" alt="" href="#!">
+<img align="left" width="100%" height="500vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayomipo&hide=css,html&theme=dark&langs_count=5&count_private=true" alt="olayomipo" href="#!">
 
 <!-- ![](./profile-3d-contrib/profile-green-animate.svg) -->
