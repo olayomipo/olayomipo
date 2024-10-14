@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 &hide=stars,commits,prs,issues,contribs
 -->
 
+<!-- <--
 - 🔭 I’m currently working on improving my coding 😀😁.
 - 🌱 I’m currently learning python.
 - 👯 I’m looking to collaborate on open-source projects.
 - ⚡ Fun fact: GitHub says JavaScript is the Most Popular language in the world. 
 #
+-->
 <!-- ![LilyCrown's GitHub stats](https://github-readme-stats.vercel.app/api?username=LilyCrown999&count_private=true&hide=contribs,prs)
 #![Top Langs](https://github-readme-stats.vercel.app/api?username=LilyCrown999&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LilyCrown999&hide=css,html&layout=compact&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  -->
